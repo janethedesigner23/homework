@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Asket';
+    src: url('Asket-Medium.woff2') format('woff2'),
+        url('Asket-Medium.woff') format('woff'),
+        url('Asket-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
