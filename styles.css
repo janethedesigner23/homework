@@ -29,6 +29,11 @@ body {
     padding-top: 32px;
 }
 
+.logo {
+    width: 108px;
+    height: 22px;
+}
+
 .menu {
     flex: 1;
     display: flex;
@@ -284,6 +289,8 @@ body {
 .footer-logo {
     margin-bottom: 8px;
     padding-top: 4px;
+    width: 108px;
+    height: 22px;
 }
 
 .copyright {
