@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="262px" height="208px" viewBox="0 0 262 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>graph</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="graph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <text id="0" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="0" y="204">0</tspan>
+            </text>
+            <text id="8%" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="1" y="19">8%</tspan>
+            </text>
+            <text id="7%" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="57" y="30">7%</tspan>
+            </text>
+            <text id="6,2%" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="113" y="41">6,2%</tspan>
+            </text>
+            <text id="5,5%" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="169" y="61">5,5%</tspan>
+            </text>
+            <text id="5%" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="224" y="80">5%</tspan>
+            </text>
+            <text id="100" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="55" y="204">100</tspan>
+            </text>
+            <text id="300" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="111" y="204">300</tspan>
+            </text>
+            <text id="500" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="167" y="204">500</tspan>
+            </text>
+            <text id="700" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="223" y="204">700</tspan>
+            </text>
+            <rect id="Rectangle-2" fill="#D45151" x="1" y="31" width="38" height="8"></rect>
+            <rect id="Rectangle-4" fill="#D45151" x="1" y="39" width="1" height="147"></rect>
+            <rect id="Rectangle-4-Copy" fill="#D45151" x="57" y="47" width="1" height="139"></rect>
+            <rect id="Rectangle-4-Copy-2" fill="#D45151" x="113" y="55" width="1" height="131"></rect>
+            <rect id="Rectangle-4-Copy-3" fill="#D45151" x="169" y="79" width="1" height="107"></rect>
+            <rect id="Rectangle-4-Copy-4" fill="#D45151" x="224" y="95" width="1" height="91"></rect>
+            <rect id="Rectangle-2-Copy" fill="#D45151" x="57" y="42" width="38" height="8"></rect>
+            <polygon id="Rectangle-2-Copy-2" fill="#D45151" points="113 53 151 53 151 61 113 61"></polygon>
+            <polygon id="Rectangle-2-Copy-3" fill="#D45151" points="169 73 207 73 207 81 169 81"></polygon>
+            <polygon id="Rectangle-2-Copy-4" fill="#D45151" points="224 92 262 92 262 100 224 100"></polygon>
+        </g>
+    </g>
+</svg>

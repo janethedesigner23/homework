@@ -144,6 +144,155 @@ body {
     color: #A6342A;
 }
 
+.moved-paragraph {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 56px;
+}
+
+.decorated-factoroid {
+    display: flex;
+    align-items: baseline;
+    margin-left: -10px;
+}
+
+.vertical {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #A6342A;
+    transform: rotate(270deg);
+    padding-left: 8px;
+}
+
+.number {
+    font-size: 116px;
+    font-weight: 600;
+    line-height: 100px;
+    color: #A6342A;
+}
+
+.number-character {
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+    color: #A6342A;
+}
+
+.factoroid-text {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px; 
+    width: 232px;
+}
+
+.paragraph-title-full {
+    font-family: 'Asket', sans-serif;
+    font-size: 36px;
+    line-height: 46px;
+    margin-bottom: 32px;
+}
+
+.paragraph-text-pulled-up {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 550px;
+    box-sizing: border-box;
+    margin: -32px 0 24px 0;
+}
+
+.left-aside-image {
+    margin: 10px 0 0 -40px;
+}
+
+.right-paragraph {
+    margin-left: 80px;
+}
+
+.graph-top {
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
+
+.column-description {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+    position: absolute;
+    left: -25px;
+    bottom: 0;
+    transform: rotate(270deg);
+    transform-origin: left;
+}
+
+.graph {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 262px;
+    position: relative;
+}
+
+.amount {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+.horisontal-line {
+    width: 38px;
+    height: 8px;
+    background: #D45151;
+}
+
+.vertical-line-one {
+    width: 1px;
+    height: 147px;
+    background: #D45151;
+}
+
+.quantity {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+    margin-top: 4px;
+}
+
+.vertical-line-two{
+    width: 1px;
+    height: 136px;
+    background: #D45151;
+}
+
+.vertical-line-three {
+    width: 1px;
+    height: 125px;
+    background: #D45151;
+}
+
+.vertical-line-four {
+    width: 1px;
+    height: 105px;
+    background: #D45151;
+}
+
+.vertical-line-five {
+    width: 1px;
+    height: 86px;
+    background: #D45151;
+}
+
+.line-description {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+    margin: 16px 0 0 32px;
+}
+
 .conclusion-image {
     position: absolute;
     right: -24px;
